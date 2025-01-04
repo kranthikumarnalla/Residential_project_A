@@ -1,5 +1,8 @@
 # Residential_project_A
  It  was a full interior design for a clients single detched home
+ 
+ <img align="middle" alt="coding" width="800" src="https://github.com/kranthikumarnalla/Portfolio/blob/main/1-1.jpeg">
+ 
  # BRIEF
  
 Project- House design
