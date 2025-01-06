@@ -1,7 +1,7 @@
  # Residential_project_A
  It  was a full interior design for a clients single detched home
  
-![A](images/1-1.jpeg)
+![A](images/bed=room=design.jpeg)
  # BRIEF
  
 Project- House design
